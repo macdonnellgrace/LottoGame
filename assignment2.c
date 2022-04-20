@@ -1,8 +1,5 @@
 /*
-Assignment 2 - TU856/1 Sem2
-
-Date due: 20/03/2022
-Authour: Grace MacDonnell C21307546
+Authour: Grace MacDonnell
 
 Desc:
 This is a lotto game that takes in
@@ -11,7 +8,7 @@ Option 2 - Displays the numbers entered by the user
 Option 3 - Runs insertion sort on numbers
 Option 4 - Compares user number to winning numbers and gives a certain prize depending on amount of correct numbers
 Option 5 - Displays the frequency of the numbers the user has entered
-Option 6 - Exits gracefully
+Option 6 - Exits 
 */
 
 // ----------------------
